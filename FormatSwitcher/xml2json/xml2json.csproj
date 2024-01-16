@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RuntimeIdentifier>linux-x64</RuntimeIdentifier>
+    </PropertyGroup>
+    
+    <PropertyGroup>
+        <Version>0.1.0</Version>
+        <IsTool>true</IsTool>
+        <PackAsTool>true</PackAsTool>
+        <Authors>
+            Brunner, Kurt
+        </Authors>
+    </PropertyGroup>
+
+    <Choose>
+        <When Condition=" '$(Configuration)'=='retail' ">
+            <PropertyGroup>
+                <PublishSingleFile>true</PublishSingleFile>
+                <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+
+            </PropertyGroup>
+        </When>
+    </Choose>
+    
+    <ItemGroup>
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    </ItemGroup>
+
+</Project>

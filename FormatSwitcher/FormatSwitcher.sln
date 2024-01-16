@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xml2json", "xml2json\xml2json.csproj", "{A141301A-61B3-4A02-9769-B167E3B6D355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "json2xml", "json2xml\json2xml.csproj", "{FA5ED64C-737D-411C-A8C2-7E04E31ED306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A141301A-61B3-4A02-9769-B167E3B6D355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A141301A-61B3-4A02-9769-B167E3B6D355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A141301A-61B3-4A02-9769-B167E3B6D355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A141301A-61B3-4A02-9769-B167E3B6D355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA5ED64C-737D-411C-A8C2-7E04E31ED306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA5ED64C-737D-411C-A8C2-7E04E31ED306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA5ED64C-737D-411C-A8C2-7E04E31ED306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA5ED64C-737D-411C-A8C2-7E04E31ED306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

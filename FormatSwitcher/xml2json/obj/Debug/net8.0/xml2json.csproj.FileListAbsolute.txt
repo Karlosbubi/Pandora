@@ -1,0 +1,17 @@
+/home/kurt/RiderProjects/FormatSwitcher/xml2json/bin/Debug/net8.0/xml2json
+/home/kurt/RiderProjects/FormatSwitcher/xml2json/bin/Debug/net8.0/xml2json.deps.json
+/home/kurt/RiderProjects/FormatSwitcher/xml2json/bin/Debug/net8.0/xml2json.runtimeconfig.json
+/home/kurt/RiderProjects/FormatSwitcher/xml2json/bin/Debug/net8.0/xml2json.dll
+/home/kurt/RiderProjects/FormatSwitcher/xml2json/bin/Debug/net8.0/xml2json.pdb
+/home/kurt/RiderProjects/FormatSwitcher/xml2json/obj/Debug/net8.0/xml2json.GeneratedMSBuildEditorConfig.editorconfig
+/home/kurt/RiderProjects/FormatSwitcher/xml2json/obj/Debug/net8.0/xml2json.AssemblyInfoInputs.cache
+/home/kurt/RiderProjects/FormatSwitcher/xml2json/obj/Debug/net8.0/xml2json.AssemblyInfo.cs
+/home/kurt/RiderProjects/FormatSwitcher/xml2json/obj/Debug/net8.0/xml2json.csproj.CoreCompileInputs.cache
+/home/kurt/RiderProjects/FormatSwitcher/xml2json/obj/Debug/net8.0/xml2json.dll
+/home/kurt/RiderProjects/FormatSwitcher/xml2json/obj/Debug/net8.0/refint/xml2json.dll
+/home/kurt/RiderProjects/FormatSwitcher/xml2json/obj/Debug/net8.0/xml2json.pdb
+/home/kurt/RiderProjects/FormatSwitcher/xml2json/obj/Debug/net8.0/xml2json.genruntimeconfig.cache
+/home/kurt/RiderProjects/FormatSwitcher/xml2json/obj/Debug/net8.0/ref/xml2json.dll
+/home/kurt/RiderProjects/FormatSwitcher/xml2json/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/kurt/RiderProjects/FormatSwitcher/xml2json/obj/Debug/net8.0/xml2json.csproj.AssemblyReference.cache
+/home/kurt/RiderProjects/FormatSwitcher/xml2json/obj/Debug/net8.0/xml2json.csproj.CopyComplete

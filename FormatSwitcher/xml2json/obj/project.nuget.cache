@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4f2ucsq13xvRttnC/Wqv/fdqgahRuqku67yaG8M/DblVOT0QLoYRpE1ftEDkgG3SVw8kvXoZd5gtHQ9yr2P+jA==",
+  "success": true,
+  "projectFilePath": "/home/kurt/RiderProjects/FormatSwitcher/xml2json/xml2json.csproj",
+  "expectedPackageFiles": [
+    "/home/kurt/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/kurt/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.1/microsoft.netcore.app.host.linux-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
